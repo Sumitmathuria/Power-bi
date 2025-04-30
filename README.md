@@ -1,8 +1,11 @@
 Vehicle Sales Financial Insights Dashboard
-Project Objective
+
+Project Objective:
+
 This Power BI dashboard project aims to analyze the sales performance of a vehicle company from 2003 to 2005. The objective is to deliver actionable insights that assist stakeholders in understanding trends, optimizing sales strategies, and improving decision-making based on historical sales performance.
 
-Dataset Overview
+Dataset Overview:
+
 The dataset is sourced from the company’s internal sales records and includes transactional and organizational data from 2003 to 2005. It covers key dimensions such as:
 
 •	Product lines (e.g., Classic Cars, Motorcycles)
@@ -10,7 +13,8 @@ The dataset is sourced from the company’s internal sales records and includes 
 •	Customers and regions
 •	Revenue, cost, and profit metrics
 
-Data Description
+Data Description:
+
 The dataset includes the following major entities:
 
 •	Customers: Customer information including location and contact details
@@ -25,7 +29,8 @@ The dataset includes the following major entities:
 •	Quantity ordered and price
 •	Total revenue and profit margin
 
-Dashboard Overview
+Dashboard Overview:
+
 The dashboard consists of several report pages, focusing on the following analytical areas:
 
 1. Sales Performance Overview
@@ -49,7 +54,8 @@ The dashboard consists of several report pages, focusing on the following analyt
 •	Repeat vs. new customer contributions
 •	Customer distribution by country
 
-Key Metrics Tracked
+Key Metrics Tracked:
+
 •	Total Sales Volume
 •	Total Revenue
 •	Gross Profit
@@ -58,14 +64,16 @@ Key Metrics Tracked
 •	Top Sales Representatives
 •	Customer Retention Rate
 
- Business Insights
+ Business Insights:
+ 
 •	Classic Cars and Motorcycles lead in total revenue
 •	European and North American offices dominate sales volume
 •	Highest revenue years: 2004 and 2005
 •	Seasonal peaks align with Q2 and Q4 of each year
 •	Most profitable customers are located in France, USA, and Germany
 
-Recommendations
+Recommendations:
+
 •	Expand High-Performing Regions
 •	Focus marketing and sales efforts in top-performing countries like France and the U.S.
 •	Upsell High-Profit Product Lines
@@ -78,4 +86,5 @@ Recommendations
 •	Align stock levels and marketing campaigns with Q2 and Q4 demand spikes.
 
 Conclusion
+
 This dashboard provides a comprehensive look into the company’s vehicle sales performance from 2003–2005. By leveraging these insights, decision-makers can improve market strategy, streamline operations, and ultimately increase profitability.
